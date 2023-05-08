@@ -30,7 +30,7 @@ Servicio enfocado a la entrega de productos enfatizado en la tematica de comidas
 
 ## Contacto
 
-Si quieres saber más sobre mi trabajo o simplemente saludar, puedes encontrarme en LinkedIn, o enviarme un correo a. ¡Será un placer conocerte!
+Si quieres saber más sobre mi trabajo o simplemente saludar, puedes encontrarme en LinkedIn, o enviarme un correo. ¡Será un placer conocerte!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-miranda-5ba759275)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kev24miranda@gmail.com)
