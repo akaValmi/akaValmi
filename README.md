@@ -5,7 +5,7 @@ Soy Kevin Miranda, Estudiante de la Universidad Nacional Autónoma de Honduras, 
 
 Mi meta es profundizar en mis habilidades técnicas en programación y desarrollo de software, mediante la realización de proyectos con distintas tecnologías, y la participación en eventos relacionados con mi carrera. También trabajo en mi conocimiento en el diseño de sistemas y bases de datos.</p>
 
-Mi portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-akavalmi.github.io-34A853?style=flat-square&logo=google-chrome&logoColor=white)](https://akavalmi.github.io)
+[![Mi Portfolio -->](https://img.shields.io/badge/Portfolio-akavalmi.github.io-34A853?style=flat-square&logo=google-chrome&logoColor=white)](https://akavalmi.github.io)
 
 ## Habilidades
 
