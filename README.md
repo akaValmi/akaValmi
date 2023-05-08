@@ -1,5 +1,5 @@
 
-# ¡Hola! 
+# ¡Hola! 👋
 
 Soy Kevin Miranda, Estudiante de la Universidad Nacional Autónoma de Honduras, donde desarrollo mis habilidades para aprender nuevas tecnologías y utilidades referentes a mi área de estudio como es la ingeniería en sistemas.
 
