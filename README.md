@@ -1,13 +1,10 @@
 
 # ¡Bienvenido/a a mi repositorio! 👋
 
-<center>
+<p style="text-align: center">Soy Kevin Miranda, Estudiante de la Universidad Nacional Autónoma de Honduras, donde desarrollo mis habilidades para aprender nuevas tecnologías y utilidades referentes a mi área de estudio como es la ingeniería en sistemas.
 
-Soy Kevin Miranda, Estudiante de la Universidad Nacional Autónoma de Honduras, donde desarrollo mis habilidades para aprender nuevas tecnologías y utilidades referentes a mi área de estudio como es la ingeniería en sistemas.
+Mi meta es profundizar en mis habilidades técnicas en programación y desarrollo de software, mediante la realización de proyectos con distintas tecnologías, y la participación en eventos relacionados con mi carrera. También trabajo en mi conocimiento en el diseño de sistemas y bases de datos.</p>
 
-Mi meta es profundizar en mis habilidades técnicas en programación y desarrollo de software, mediante la realización de proyectos con distintas tecnologías, y la participación en eventos relacionados con mi carrera. También trabajo en mi conocimiento en el diseño de sistemas y bases de datos.
-
-</center>
 
 ## Habilidades
 
