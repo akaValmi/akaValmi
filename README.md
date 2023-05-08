@@ -12,7 +12,6 @@ Soy Kevin Miranda, Estudiante de la Universidad Nacional Autónoma de Honduras, 
 - ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-- ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-FF2D20?style=flat-square&logo=davinci-resolve&logoColor=white)
 
 ## Proyectos destacados
 
