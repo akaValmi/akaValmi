@@ -21,7 +21,6 @@ Mi meta es profundizar en mis habilidades técnicas en programación y desarroll
 
 [![Better Than Slices (Delivery)](https://akavalmi.github.io/img/logo-proyecto1.png)](https://github.com/akaValmi/Admin_BTS)
 
-Breve descripción del proyecto.
 Servicio enfocado a la entrega de productos enfatizado en la tematica de comidas rapidas a domicilio. El proyecto consiste en una aplicacion web que permite a un administrador registrar categorias, productos y repartidores, a los repartidores se les puede asignar pedidos. También consta con servicio de clientes y repartidores
 
 ### Tecnologías utilizadas
