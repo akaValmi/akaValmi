@@ -1,9 +1,13 @@
 
 # ¡Bienvenido/a a mi repositorio! 👋
 
+<center>
+
 Soy Kevin Miranda, Estudiante de la Universidad Nacional Autónoma de Honduras, donde desarrollo mis habilidades para aprender nuevas tecnologías y utilidades referentes a mi área de estudio como es la ingeniería en sistemas.
 
 Mi meta es profundizar en mis habilidades técnicas en programación y desarrollo de software, mediante la realización de proyectos con distintas tecnologías, y la participación en eventos relacionados con mi carrera. También trabajo en mi conocimiento en el diseño de sistemas y bases de datos.
+
+</center>
 
 ## Habilidades
 
@@ -15,7 +19,7 @@ Mi meta es profundizar en mis habilidades técnicas en programación y desarroll
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
-## Proyectos destacados
+## Proyectos Destacados
 
 [![Better Than Slices (Delivery)](https://akavalmi.github.io/img/logo-proyecto1.png)](https://github.com/akaValmi/Admin_BTS)
 
