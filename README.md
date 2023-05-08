@@ -21,7 +21,8 @@ Soy Kevin Miranda, Estudiante de la Universidad Nacional Autónoma de Honduras, 
 
 ## Contacto
 
-Si quieres saber más sobre mi trabajo o simplemente saludar, puedes encontrarme en [LinkedIn](tu perfil de LinkedIn), o enviarme un correo a [tu correo electrónico]. ¡Será un placer conocerte!
+Si quieres saber más sobre mi trabajo o simplemente saludar, puedes encontrarme en [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-LinkedIn/)
+, o enviarme un correo a [tu correo electrónico]. ¡Será un placer conocerte!
 
 
 <!--
