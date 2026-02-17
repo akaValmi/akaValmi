@@ -7,25 +7,7 @@ Mi meta es profundizar en mis habilidades técnicas en programación y desarroll
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visitar%20Sitio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-km-sandy.vercel.app)
 
-## Habilidades
-
-### 🚀 Frontend
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-- ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-
-### ⚙️ Backend
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### 🗄️ Bases de Datos
-- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-- ![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
-
-### ☁️ DevOps & Herramientas
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
 
 ## 🚀 Proyectos Destacados
 
@@ -47,6 +29,28 @@ Plataforma de comercio electrónico orientada a la venta de regalos, con integra
 [![Ver Proyecto](https://img.shields.io/badge/🎧%20Probar%20App-1DB954?style=for-the-badge)](https://pomorodio.vercel.app)
 
 Aplicación de productividad que combina la técnica Pomodoro con integración musical para mejorar la concentración y el enfoque durante las sesiones de trabajo.
+
+---
+
+## Habilidades
+
+### 🚀 Frontend
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+- ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+
+### ⚙️ Backend
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 🗄️ Bases de Datos
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+- ![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+
+### ☁️ DevOps & Herramientas
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
