@@ -3,7 +3,7 @@
 
 Soy Kevin Miranda, Ingeniero en Sistemas apasionado por el desarrollo de software y la creación de soluciones tecnológicas eficientes y escalables.
 
-Mi meta es profundizar en mis habilidades técnicas en programación y desarrollo de software, mediante la realización de proyectos con distintas tecnologías, y la participación en eventos relacionados con mi carrera. También trabajo en mi conocimiento en el diseño de sistemas y bases de datos.</p>
+Mi meta es profundizar en mis habilidades técnicas en programación y desarrollo de software mediante la realización de proyectos con distintas tecnologías</p>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visitar%20Sitio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-km-sandy.vercel.app)
 
